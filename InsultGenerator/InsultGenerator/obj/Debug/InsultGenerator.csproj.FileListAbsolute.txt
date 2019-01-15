@@ -1,0 +1,7 @@
+C:\Users\0_iq\source\repos\InsultGenerator\InsultGenerator\bin\Debug\InsultGenerator.exe.config
+C:\Users\0_iq\source\repos\InsultGenerator\InsultGenerator\bin\Debug\InsultGenerator.exe
+C:\Users\0_iq\source\repos\InsultGenerator\InsultGenerator\bin\Debug\InsultGenerator.pdb
+C:\Users\0_iq\source\repos\InsultGenerator\InsultGenerator\obj\Debug\InsultGenerator.csprojAssemblyReference.cache
+C:\Users\0_iq\source\repos\InsultGenerator\InsultGenerator\obj\Debug\InsultGenerator.csproj.CoreCompileInputs.cache
+C:\Users\0_iq\source\repos\InsultGenerator\InsultGenerator\obj\Debug\InsultGenerator.exe
+C:\Users\0_iq\source\repos\InsultGenerator\InsultGenerator\obj\Debug\InsultGenerator.pdb
